@@ -315,9 +315,9 @@ code {
   top: 0;
   bottom: 0;
   left: 0;
-  padding: 20px;
-  padding-left: 0;
-  padding-right: 0;
+  padding: 15px;
+  padding-left: -5px;
+  padding-right: -5px;
   z-index: 1000;
   overflow-x: hidden;
   overflow-y: auto;
